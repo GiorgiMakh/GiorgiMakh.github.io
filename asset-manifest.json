@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ed8d0e19.css",
-    "main.js": "/static/js/main.ed8549f1.js",
+    "main.js": "/static/js/main.86408180.js",
     "static/js/206.72e89624.chunk.js": "/static/js/206.72e89624.chunk.js",
     "static/media/Ward.png": "/static/media/Ward.62eb3785e97fd52f86c3.png",
     "static/media/GiorgiMakh.jpeg": "/static/media/GiorgiMakh.396fcb756da0a39765ca.jpeg",
@@ -18,6 +18,6 @@
   },
   "entrypoints": [
     "static/css/main.ed8d0e19.css",
-    "static/js/main.ed8549f1.js"
+    "static/js/main.86408180.js"
   ]
 }
