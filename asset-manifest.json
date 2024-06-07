@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.23a16d6a.css",
-    "main.js": "/static/js/main.86408180.js",
+    "main.css": "/static/css/main.32ac9095.css",
+    "main.js": "/static/js/main.443c42a6.js",
     "static/js/206.72e89624.chunk.js": "/static/js/206.72e89624.chunk.js",
     "static/media/Ward.png": "/static/media/Ward.62eb3785e97fd52f86c3.png",
     "static/media/GiorgiMakh.jpeg": "/static/media/GiorgiMakh.396fcb756da0a39765ca.jpeg",
+    "static/media/Marketbot.png": "/static/media/Marketbot.f63baf75d64a71033ec6.png",
     "static/media/Twitter.png": "/static/media/Twitter.4d73a49285dbe9cac801.png",
     "static/media/Musicnation.jpg": "/static/media/Musicnation.2b52bef1106c6b8293e1.jpg",
     "static/media/Python.png": "/static/media/Python.3c4c4ac6923daa0c0c0b.png",
     "static/media/Kofi.png": "/static/media/Kofi.cd92895b53b55e5c43d1.png",
+    "static/media/Web.png": "/static/media/Web.3dda37c058a146787f2f.png",
     "static/media/Javascript.png": "/static/media/Javascript.53a72c2f1b8894adc207.png",
     "static/media/Mysql.png": "/static/media/Mysql.5deda07826ac728058c7.png",
     "static/media/Discord.png": "/static/media/Discord.667df059ddf407979d68.png",
@@ -17,7 +19,7 @@
     "static/media/Open_new.svg": "/static/media/Open_new.8530ba13934e0ab3ff7102b3f1bcc969.svg"
   },
   "entrypoints": [
-    "static/css/main.23a16d6a.css",
-    "static/js/main.86408180.js"
+    "static/css/main.32ac9095.css",
+    "static/js/main.443c42a6.js"
   ]
 }
