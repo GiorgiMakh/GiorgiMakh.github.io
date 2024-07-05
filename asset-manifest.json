@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.9658696b.css",
+    "main.css": "/static/css/main.d779a4f3.css",
     "main.js": "/static/js/main.c953028a.js",
     "static/js/206.72e89624.chunk.js": "/static/js/206.72e89624.chunk.js",
     "static/media/Ward.png": "/static/media/Ward.62eb3785e97fd52f86c3.png",
@@ -19,7 +19,7 @@
     "static/media/Open_new.svg": "/static/media/Open_new.8530ba13934e0ab3ff7102b3f1bcc969.svg"
   },
   "entrypoints": [
-    "static/css/main.9658696b.css",
+    "static/css/main.d779a4f3.css",
     "static/js/main.c953028a.js"
   ]
 }
